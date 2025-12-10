@@ -25,7 +25,7 @@ Many organizations struggle to track how effectively internal resources are allo
 - **Visual Design**: Executive-focused dashboard with clear action priorities
 
 ## 📁 Files
-- `dashboard.pbix` - Complete Power BI solution
+- `Screenshots` - Complete screenshots Power BI solution
 - `sample_data.csv` - Anonymized dataset
 - `methodology.pdf` - Case study approach
 
